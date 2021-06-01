@@ -17,4 +17,4 @@ import * as StyleBusiness from "./style-business";
     return li;
   }
 
-  export {getAccountElement, getClientAccountsElement};
+  export {getClientAccountsElement};
